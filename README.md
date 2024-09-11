@@ -5,3 +5,11 @@ Este proyecto es el backend del sistema de monitoreo y predicción de deserción
 > Said Elias Salcedo Cupitra
 > Alexander Ramirez Chiquito
 
+
+## Patrón de diseño a utilizar MVC.
+Modelo: funcionalidad central de los datos.
+Vista: información al usuario a mostrar.
+Controlador: Entrada de la parte administrativa.
+Tecnología: Python y JavaScript.
+Frond-end: Framework React.js
+Base de Datos: MySQL.
